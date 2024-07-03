@@ -1,4 +1,4 @@
-# Curriculum Goals (Brainstorming Draft)
+##Not place pegoo#m Goals (Brainstorming Draft)
 
 ### What are we building?
 A compliment, or companion module for any course/content teaching 'the history of open source. Some examples I can find are (please add yours so we can reach out to those authors):
@@ -30,4 +30,4 @@ And of course, the potential for getting this right.
 
 | Learning Goal       | Topics           | Assignment/Activtiies  |
 | ------------- |:-------------:| -----:|
-|  TBD    | TBD| TBD |
+|  TBD
